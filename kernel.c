@@ -64,7 +64,7 @@ void KERNEL_MAIN()
   printNewLine();
   printString("This operating system is made by Abhineet Raj");  
   printNewLine();
-  printString("Github- https://github.com/abhineetraj1")
+  printString("Github- https://github.com/abhineetraj1");
   printNewLine();
   printString("Bye world");
   printNewLine();
